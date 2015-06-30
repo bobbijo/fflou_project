@@ -2,7 +2,7 @@
 
 $(document).ready(function(){
 
-$(".toggle").click(function(){
+$(".toggle").change(function(){
   $(".navcollaps").toggleClass("show");
 });
 
