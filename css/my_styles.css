@@ -2,9 +2,13 @@
 layout
 ******************************/
 
+img {
+  max-width: 100%;
+}
 
 a {
 text-decoration: none;
+color: orange;
 }
 
 body {
@@ -36,10 +40,6 @@ p{
 }
 
 
-
-img {
-  max-width: 100%;
-}
 /******************************
 Heading
 ******************************/
