@@ -92,7 +92,8 @@ Carousel
 ******************************/
 
 .myCarousel{
-  max-width: 100%;
+  text-align: center;
+  max-width: 920px;
   max-height: auto;
 
 }
